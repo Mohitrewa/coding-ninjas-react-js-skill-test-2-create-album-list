@@ -10,3 +10,4 @@ There are two components in this project - App.js and DynamicSelect.js. The App 
 The project was built using Create React App. To run the project:
 
 * `npm start or yarn start` a new browser window will appear running the project.
+* my deploymentt for this project is in this link http://skona27.github.io/react-album-with-photos
